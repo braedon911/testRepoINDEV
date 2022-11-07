@@ -12,6 +12,7 @@ public class CardAsset : ScriptableObject
     public int health = 1;
     public int cost = 0;
 
+    [HideInInspector]
     public UnityEvent cardValidater;
     void OnValidate()
     {
