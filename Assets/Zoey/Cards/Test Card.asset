@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Test Card
   m_EditorClassIdentifier: 
   header: Test
-  art: {fileID: 0}
+  art: {fileID: 21300000, guid: 77c4948862cc9de469a4b6f9cca8bbf8, type: 3}
   power: 0
   health: 1
   cost: 0
