@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a72daacebf318fc40b38132a7c23ea9c, type: 3}
-  m_Name: Test Card
+  m_Name: Second Test Card
   m_EditorClassIdentifier: 
-  cardName: Moose
-  art: {fileID: 21300000, guid: 77c4948862cc9de469a4b6f9cca8bbf8, type: 3}
-  power: 0
+  cardName: Sad Cat
+  art: {fileID: 21300000, guid: 5c18b016bb4fcc94e850559128288e00, type: 3}
+  power: 2
   health: 1
   cost: 0
   cardValidater:
